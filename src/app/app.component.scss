@@ -1,0 +1,20 @@
+.table{
+    border: 1pt solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black; 
+    text-align: center;
+    padding: 5px;
+}
+th {
+    border: 1px solid black; 
+    text-align: center;
+    padding: 5px;    
+}
+.bgcolor {
+    background-color: yellow;
+}
+::ng-deep #pie {
+    height: 440px;
+  }
