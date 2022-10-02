@@ -1,3 +1,27 @@
+#assignment
+
+Tasks
+
+a) Visualize JSON data via HTML table using Angular
+
+Implement a html page in Angular showing a table of employees that are ordered by the total
+
+time worked. The table should show the Name, and the Total time worked. Color the table row if
+
+the employee worked less than 100 hours. The data for this task must be retrieved from a GET
+
+call on following API endpoint:
+
+https://rc-vault-fap-live-1.azurewebsites.net/api/gettimeentries?code=vO17RnE8vuzXzPJo5eaLLjXjmRW07law99QTD90zat9FfOQJKKUcgQ==
+
+b) Visualize JSON data in a PIE Chart using Angular
+
+In the same page add a pie-chart showing a percentage of the total time worked by an
+
+employee. The chart can be drawn using any library.
+
+
+
 # NgDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
